@@ -1,0 +1,7 @@
+{
+    "name": "Node-RED",
+    "build": {
+    "dockerfile": "Dockerfile"
+  },
+    "forwardPorts": [1880]
+  }
